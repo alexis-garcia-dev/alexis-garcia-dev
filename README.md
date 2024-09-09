@@ -1,11 +1,15 @@
 # ¡Hola, soy Alexis Garcia! 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Developer;5%2B+years+of+coding+experience;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+</p>
+
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🚀 Sobre mí
-Soy un desarrollador full-stack apasionado por crear soluciones innovadoras y robustas. Me especializo en tecnologías web modernas y me encanta aprender constantemente sobre nuevas herramientas y frameworks que mejoren la eficiencia y calidad del desarrollo.
+Soy un desarrollador full-stack con más de 5 años de experiencia, apasionado por crear soluciones innovadoras y robustas. Me especializo en tecnologías web modernas y me encanta aprender constantemente sobre nuevas herramientas y frameworks que mejoren la eficiencia y calidad del desarrollo.
 
-- 🔭 Actualmente estoy trabajando en proyectos de desarrollo web full-stack
+- 🔭 Actualmente trabajo en proyectos de desarrollo web full-stack
 - 🌱 Estoy aprendiendo sobre arquitecturas de microservicios y DevOps
 - 👯 Busco colaborar en proyectos de código abierto relacionados con Python y JavaScript
 - 💬 Pregúntame sobre desarrollo web, Python, JavaScript, y buenas prácticas de programación
@@ -13,7 +17,6 @@ Soy un desarrollador full-stack apasionado por crear soluciones innovadoras y ro
 ## 🛠 Habilidades
 
 ### Lenguajes de Programación
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -21,23 +24,21 @@ Soy un desarrollador full-stack apasionado por crear soluciones innovadoras y ro
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ### Frontend
-
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Blade](https://img.shields.io/badge/-Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### Backend
-
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### Bases de Datos
-
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Herramientas y Otros
-
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -48,16 +49,28 @@ Soy un desarrollador full-stack apasionado por crear soluciones innovadoras y ro
   <img src="https://github-readme-stats.vercel.app/api?username=alexis-garcia-dev&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Estadísticas de GitHub de Alexis Garcia" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexis-garcia-dev&theme=radical" alt="alexis-garcia-dev" />
+</p>
+
 ### Lenguajes más usados
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexis-garcia-dev&layout=compact&theme=radical&count_private=true&hide=html&langs_count=8" alt="Lenguajes más usados por Alexis Garcia" />
 </p>
 
+## 🏆 Logros
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=alexis-garcia-dev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 🌟 Proyectos destacados
 
-- [Sistema de Gestión de Inventarios](https://github.com/alexis-garcia-dev/inventory-management) - Un sistema completo para la gestión de inventarios utilizando Django y React.
-- [API de Comercio Electrónico](https://github.com/alexis-garcia-dev/ecommerce-api) - Una API RESTful robusta para aplicaciones de comercio electrónico construida con Node.js y Express.
+<a href="https://github.com/alexis-garcia-dev/inventory-management">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexis-garcia-dev&repo=inventory-management&theme=radical" />
+</a>
+<a href="https://github.com/alexis-garcia-dev/ecommerce-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexis-garcia-dev&repo=ecommerce-api&theme=radical" />
+</a>
 
 ## 📫 Cómo contactarme:
 
@@ -75,8 +88,10 @@ Soy un desarrollador full-stack apasionado por crear soluciones innovadoras y ro
 
 ---
 
-⭐️ From [alexis-garcia-dev](https://github.com/alexis-garcia-dev)
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alexis-garcia-dev&label=Profile%20views&color=0e75b6&style=flat" alt="alexis-garcia-dev" />
+</p>
+
+<p align="center">
+  ⭐️ From [alexis-garcia-dev](https://github.com/alexis-garcia-dev)
 </p>
