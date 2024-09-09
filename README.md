@@ -62,18 +62,6 @@ Soy un desarrollador full-stack con más de 5 años de experiencia, apasionado p
 </p>
 
 
-
-
-
-## 🌟 Proyectos destacados
-
-<a href="https://github.com/alexis-garcia-dev/inventory-management">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexis-garcia-dev&repo=inventory-management&theme=radical" />
-</a>
-<a href="https://github.com/alexis-garcia-dev/ecommerce-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexis-garcia-dev&repo=ecommerce-api&theme=radical" />
-</a>
-
 ## 📫 Cómo contactarme:
 
 <p align="center">
