@@ -50,7 +50,7 @@ Soy un desarrollador full-stack con más de 5 años de experiencia, apasionado p
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexis-garcia-dev&theme=radical" alt="alexis-garcia-dev" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alexis-garcia-dev&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
 <p align="center">
