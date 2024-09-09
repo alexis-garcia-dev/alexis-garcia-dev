@@ -11,7 +11,7 @@ Soy un desarrollador apasionado por [tus intereses]. Me encanta aprender nuevas 
 ## 📊 Estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=alexis-garcia-dev&show_icons=true&theme=radical)
 
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-nombre-de-usuario&layout=compact&theme=radical)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=alexis-garcia-dev&layout=compact&theme=radical)
 
 ## 🌟 Proyectos destacados
 - [Nombre del Proyecto](link-al-proyecto) - Breve descripción
