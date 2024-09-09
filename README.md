@@ -46,11 +46,11 @@ Soy un desarrollador full-stack con más de 5 años de experiencia, apasionado p
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexis-garcia-dev&show_icons=true&theme=radical" alt="Estadísticas de GitHub de Alexis Garcia" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alexis-garcia-dev&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Estadísticas de GitHub de Alexis Garcia" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexis-garcia-dev&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexis-garcia-dev&theme=radical" alt="alexis-garcia-dev" />
 </p>
 
 <p align="center">
