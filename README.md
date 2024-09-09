@@ -61,11 +61,7 @@ Soy un desarrollador full-stack con más de 5 años de experiencia, apasionado p
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexis-garcia-dev&theme=radical" alt="Resumen del perfil de GitHub" />
 </p>
 
-## 📈 Contribuciones
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=alexis-garcia-dev&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</p>
 
 
 
