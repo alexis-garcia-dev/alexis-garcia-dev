@@ -44,11 +44,11 @@ Soy un desarrollador full-stack apasionado por crear soluciones innovadoras y ro
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexis-garcia-dev&show_icons=true&theme=radical&count_private=true&token=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" alt="Estadísticas de GitHub de Alexis Garcia" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alexis-garcia-dev&show_icons=true&theme=radical&count_private=true" alt="Estadísticas de GitHub de Alexis Garcia" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexis-garcia-dev&layout=compact&theme=radical&count_private=true&token=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" alt="Lenguajes más usados por Alexis Garcia" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexis-garcia-dev&layout=compact&theme=radical&count_private=true" alt="Lenguajes más usados por Alexis Garcia" />
 </p>
 ## 🌟 Proyectos destacados
 
