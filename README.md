@@ -67,9 +67,7 @@ Soy un desarrollador full-stack con más de 5 años de experiencia, apasionado p
   <img src="https://github-contributor-stats.vercel.app/api?username=alexis-garcia-dev&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </p>
 
-## 🏆 Logros
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=alexis-garcia-dev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🌟 Proyectos destacados
 
