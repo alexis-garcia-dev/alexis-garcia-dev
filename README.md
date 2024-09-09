@@ -18,7 +18,7 @@ Soy un desarrollador apasionado por [tus intereses]. Me encanta aprender nuevas 
 - [Otro Proyecto](link-al-proyecto) - Breve descripción
 
 ## 📫 Cómo contactarme:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tu-perfil/)](https://www.linkedin.com/in/tu-perfil/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexis-garcia-444639150/)](https://www.linkedin.com/in/alexis-garcia-444639150/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/tu-usuario)](https://twitter.com/tu-usuario)
 
 ⭐️ From [tu-nombre-de-usuario](https://github.com/tu-nombre-de-usuario)
