@@ -50,7 +50,6 @@ Soy un desarrollador full-stack apasionado por crear soluciones innovadoras y ro
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexis-garcia-dev&layout=compact&theme=radical&count_private=true&token=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" alt="Lenguajes más usados por Alexis Garcia" />
 </p>
-
 ## 🌟 Proyectos destacados
 
 - [Sistema de Gestión de Inventarios](https://github.com/alexis-garcia-dev/inventory-management) - Un sistema completo para la gestión de inventarios utilizando Django y React.
