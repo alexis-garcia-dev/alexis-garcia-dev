@@ -1,4 +1,4 @@
-# ¡Hola, soy [Tu Nombre]! 👋
+# ¡Hola, soy Alexis Garcia! 👋
 
 ## 🚀 Sobre mí
 Soy un desarrollador apasionado por [tus intereses]. Me encanta aprender nuevas tecnologías y contribuir a proyectos de código abierto.
