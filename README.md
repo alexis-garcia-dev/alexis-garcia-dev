@@ -9,7 +9,7 @@ Soy un desarrollador apasionado por [tus intereses]. Me encanta aprender nuevas 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ## 📊 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-nombre-de-usuario&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=alexis-garcia-dev&show_icons=true&theme=radical)
 
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-nombre-de-usuario&layout=compact&theme=radical)
 
