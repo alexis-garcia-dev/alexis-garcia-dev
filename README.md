@@ -1,13 +1,13 @@
 # ¡Hola, soy Alexis Garcia! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Developer;5%2B+years+of+coding+experience;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Developer;4%2B+years+of+coding+experience;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🚀 Sobre mí
-Soy un desarrollador full-stack con más de 5 años de experiencia, apasionado por crear soluciones innovadoras y robustas. Me especializo en tecnologías web modernas y me encanta aprender constantemente sobre nuevas herramientas y frameworks que mejoren la eficiencia y calidad del desarrollo.
+Soy un desarrollador full-stack con más de 4 años de experiencia, apasionado por crear soluciones innovadoras y robustas. Me especializo en tecnologías web modernas y me encanta aprender constantemente sobre nuevas herramientas y frameworks que mejoren la eficiencia y calidad del desarrollo.
 
 - 🔭 Actualmente trabajo en proyectos de desarrollo web full-stack
 - 👯 Busco colaborar en proyectos de código abierto relacionados con Python y JavaScript
