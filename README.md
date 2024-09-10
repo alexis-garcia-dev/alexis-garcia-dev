@@ -1,21 +1,16 @@
 # Hi there, I'm Alexis Garcia! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Developer;4%2B+years+of+coding+experience;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&background=00000000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Developer;4%2B+years+of+coding+experience;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
 
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 ## 🚀 About Me
+I'm a full-stack developer with over 4 years of experience, passionate about creating innovative and robust solutions. I specialize in modern web technologies and love constantly learning about new tools and frameworks that improve development efficiency and quality.
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  <div style="flex: 1;">
-    I'm a full-stack developer with over 4 years of experience, passionate about creating innovative and robust solutions. I specialize in modern web technologies and love constantly learning about new tools and frameworks that improve development efficiency and quality.
-
-    - 🔭 I'm currently working on full-stack web development projects
-    - 👯 I'm looking to collaborate on open-source projects related to Python and JavaScript
-    - 🌱 Always learning: Diving deep into cloud technologies and microservices architecture
-  </div>
-  <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 10px;">
-</div>
+- 🔭 I'm currently working on full-stack web development projects
+- 👯 I'm looking to collaborate on open-source projects related to Python and JavaScript
 
 ## 🛠 Skills
 
@@ -30,6 +25,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Blade](https://img.shields.io/badge/-Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
 ### Backend
@@ -41,13 +37,28 @@
 ### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools and Others
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
 
 ## 📊 GitHub Stats
 
 <p align="center">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexis-garcia-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexis-garcia-dev&layout=compact&langs_count=8&theme=radical"/>
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alexis-garcia-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alexis-garcia-dev&layout=compact&langs_count=8&theme=radical"/>
 </p>
 
 ## 📫 How to reach me:
