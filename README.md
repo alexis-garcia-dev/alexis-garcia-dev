@@ -11,8 +11,7 @@ I'm a passionate full-stack developer with over 4 years of experience, dedicated
 
 - 🔭 Currently working on: Scalable microservices architecture
 - 💡 Always exploring: Latest trends in web development and cloud technologies
-- 🌱 Learning: Advanced AWS services and Kubernetes
-- 💬 Ask me about: Web development, software architecture, or tech career advice
+- 🎯 Goals: Contribute to open-source projects and build scalable applications
 
 ## 🛠 Skills
 
