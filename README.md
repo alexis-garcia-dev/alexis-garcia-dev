@@ -4,13 +4,20 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Developer;4%2B+years+of+coding+experience;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ## 🚀 About Me
 I'm a full-stack developer with over 4 years of experience, passionate about creating innovative and robust solutions. I specialize in modern web technologies and love constantly learning about new tools and frameworks that improve development efficiency and quality.
 
 - 🔭 I'm currently working on full-stack web development projects
 - 👯 I'm looking to collaborate on open-source projects related to Python and JavaScript
+- 💬 Ask me about anything related to web development\
+- 📫 How to reach me: [
+  ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+  ](https://www.linkedin.com/in/alexis-garcia-444639150/)
+- 😄 Pronouns: He/Him
+
+
 
 ## 🛠 Skills
 
