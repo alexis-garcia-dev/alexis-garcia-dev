@@ -10,9 +10,7 @@
 Soy un desarrollador full-stack con más de 5 años de experiencia, apasionado por crear soluciones innovadoras y robustas. Me especializo en tecnologías web modernas y me encanta aprender constantemente sobre nuevas herramientas y frameworks que mejoren la eficiencia y calidad del desarrollo.
 
 - 🔭 Actualmente trabajo en proyectos de desarrollo web full-stack
-- 🌱 Estoy aprendiendo sobre arquitecturas de microservicios y DevOps
 - 👯 Busco colaborar en proyectos de código abierto relacionados con Python y JavaScript
-- 💬 Pregúntame sobre desarrollo web, Python, JavaScript, y buenas prácticas de programación
 
 ## 🛠 Habilidades
 
