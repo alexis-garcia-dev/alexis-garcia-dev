@@ -1,13 +1,13 @@
 # Hi there, I'm Alexis Garcia! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Developer;5%2B+years+of+coding+experience;Passionate+about+web+technologies;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Developer;4%2B+years+of+coding+experience;Passionate+about+web+technologies;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
 
 ## 🚀 About Me
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-I'm a passionate full-stack developer with over 5 years of experience, dedicated to creating innovative and robust solutions. My expertise lies in modern web technologies, and I thrive on continuously learning about new tools and frameworks to enhance development efficiency and quality.
+I'm a passionate full-stack developer with over 4 years of experience, dedicated to creating innovative and robust solutions. My expertise lies in modern web technologies, and I thrive on continuously learning about new tools and frameworks to enhance development efficiency and quality.
 
 - 🔭 Currently working on: Scalable microservices architecture
 - 💡 Always exploring: Latest trends in web development and cloud technologies
