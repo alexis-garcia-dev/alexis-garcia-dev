@@ -11,6 +11,12 @@ I'm a full-stack developer with over 4 years of experience, passionate about cre
 
 - 🔭 I'm currently working on full-stack web development projects
 - 💬 Ask me about anything related to web development
+- 🌱 I'm currently learning about cloud computing and serverless technologies
+- 📫 How to reach me: [
+  ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+  ](https://www.linkedin.com/in/alexis-garcia-444639150/)
+- 😄 Pronouns: He/Him
+
 
 
 
