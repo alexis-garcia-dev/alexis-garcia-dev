@@ -51,13 +51,6 @@ Soy un desarrollador full-stack con más de 5 años de experiencia, apasionado p
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alexis-garcia-dev&layout=compact&langs_count=8&theme=radical"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexis-garcia-dev&layout=compact&theme=radical" alt="Top Lenguajes" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexis-garcia-dev&theme=radical" alt="Resumen del perfil de GitHub" />
-</p>
 
 
 ## 📫 Cómo contactarme:
