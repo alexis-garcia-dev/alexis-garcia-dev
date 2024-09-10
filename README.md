@@ -6,7 +6,7 @@
 
 
 ## 🚀 About Me
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 I'm a full-stack developer with over 4 years of experience, passionate about creating innovative and robust solutions. I specialize in modern web technologies and love constantly learning about new tools and frameworks that improve development efficiency and quality.
 
 - 🔭 I'm currently working on full-stack web development projects
