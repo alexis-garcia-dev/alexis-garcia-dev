@@ -13,9 +13,6 @@ I'm a passionate full-stack developer with over 5 years of experience, dedicated
 - 💡 Always exploring: Latest trends in web development and cloud technologies
 - 🌱 Learning: Advanced AWS services and Kubernetes
 - 💬 Ask me about: Web development, software architecture, or tech career advice
-- 📫 Reach me at: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-garcia-444639150/) or alexis.garcia170698@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
 
 ## 🛠 Skills
 
@@ -58,12 +55,6 @@ I'm a passionate full-stack developer with over 5 years of experience, dedicated
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-## 🏆 Projects and Achievements
-
-- 🚀 Led the development of a high-traffic e-commerce platform, improving performance by 40%
-- 🌟 Contributed to open-source projects with over 1000+ stars on GitHub
-- 🏅 Awarded "Best Innovative Solution" at local Hackathon (2023)
-- 📚 Published technical articles on Medium about web development best practices
 
 ## 📊 GitHub Stats
 
