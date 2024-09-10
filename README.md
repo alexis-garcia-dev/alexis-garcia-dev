@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Developer;4%2B+years+of+coding+experience;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
 
-<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ## 🚀 About Me
 I'm a full-stack developer with over 4 years of experience, passionate about creating innovative and robust solutions. I specialize in modern web technologies and love constantly learning about new tools and frameworks that improve development efficiency and quality.
